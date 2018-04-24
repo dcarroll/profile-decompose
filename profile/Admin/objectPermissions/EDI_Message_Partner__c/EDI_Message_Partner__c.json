@@ -1,0 +1,9 @@
+{
+    "allowCreate": true,
+    "allowDelete": true,
+    "allowEdit": true,
+    "allowRead": true,
+    "modifyAllRecords": true,
+    "object": "EDI_Message_Partner__c",
+    "viewAllRecords": true
+}

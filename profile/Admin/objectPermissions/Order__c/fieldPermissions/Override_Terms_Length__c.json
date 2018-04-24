@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Override_Terms_Length__c",
+    "readable": true
+}

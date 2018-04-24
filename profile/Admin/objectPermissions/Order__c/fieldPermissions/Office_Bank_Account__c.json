@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Office_Bank_Account__c",
+    "readable": true
+}

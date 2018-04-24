@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "Order_Line_Item__c.Standard_Order_Line",
+    "visible": true
+}

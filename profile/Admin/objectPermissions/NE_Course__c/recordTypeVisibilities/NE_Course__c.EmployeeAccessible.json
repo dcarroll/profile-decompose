@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "NE_Course__c.EmployeeAccessible",
+    "visible": true
+}

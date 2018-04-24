@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Invoice_Accompanies_Hardware_Shipment__c",
+    "readable": true
+}

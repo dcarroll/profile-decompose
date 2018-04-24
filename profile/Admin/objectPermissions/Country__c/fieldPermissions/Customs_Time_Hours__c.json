@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Customs_Time_Hours__c",
+    "readable": true
+}

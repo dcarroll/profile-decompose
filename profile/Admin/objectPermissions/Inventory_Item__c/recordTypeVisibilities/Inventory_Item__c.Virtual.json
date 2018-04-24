@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Inventory_Item__c.Virtual",
+    "visible": true
+}

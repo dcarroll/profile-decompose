@@ -1,0 +1,9 @@
+{
+    "allowCreate": true,
+    "allowDelete": true,
+    "allowEdit": true,
+    "allowRead": true,
+    "modifyAllRecords": true,
+    "object": "Deregister_Device__c",
+    "viewAllRecords": true
+}

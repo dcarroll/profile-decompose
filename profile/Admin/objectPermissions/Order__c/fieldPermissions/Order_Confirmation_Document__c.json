@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Order_Confirmation_Document__c",
+    "readable": true
+}

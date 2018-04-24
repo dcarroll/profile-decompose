@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "Product_Component__c.PM_Appliance_Component",
+    "visible": true
+}

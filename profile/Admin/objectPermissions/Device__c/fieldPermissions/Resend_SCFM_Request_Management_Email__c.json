@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.Resend_SCFM_Request_Management_Email__c",
+    "readable": true
+}

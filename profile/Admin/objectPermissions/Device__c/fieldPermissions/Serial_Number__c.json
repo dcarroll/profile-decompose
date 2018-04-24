@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.Serial_Number__c",
+    "readable": true
+}

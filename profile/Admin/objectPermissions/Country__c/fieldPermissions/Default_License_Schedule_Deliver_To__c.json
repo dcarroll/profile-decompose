@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Default_License_Schedule_Deliver_To__c",
+    "readable": true
+}

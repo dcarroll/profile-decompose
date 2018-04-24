@@ -1,0 +1,9 @@
+{
+    "allowCreate": true,
+    "allowDelete": true,
+    "allowEdit": true,
+    "allowRead": true,
+    "modifyAllRecords": true,
+    "object": "NE_Survey_Questions__c",
+    "viewAllRecords": true
+}

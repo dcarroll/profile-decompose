@@ -1,0 +1,4 @@
+{
+    "layout": "Order__c-Admin - Credit Note Layout",
+    "recordType": "Order__c.Credit_Note"
+}

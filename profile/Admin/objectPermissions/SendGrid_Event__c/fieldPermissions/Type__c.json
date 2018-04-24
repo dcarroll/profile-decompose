@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "SendGrid_Event__c.Type__c",
+    "readable": true
+}

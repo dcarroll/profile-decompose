@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Item__c.Country_of_Origin__c",
+    "readable": true
+}

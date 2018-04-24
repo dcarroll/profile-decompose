@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.License_Schedule__c",
+    "readable": true
+}

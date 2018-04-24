@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Case.Dispatch_Note",
+    "visible": true
+}

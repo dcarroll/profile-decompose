@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message_Partner__c.DUNS_Number__c",
+    "readable": true
+}

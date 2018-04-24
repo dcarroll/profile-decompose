@@ -1,0 +1,4 @@
+{
+    "layout": "Order__c-Admin - Standard Order Layout",
+    "recordType": "Order__c.Standard_Order"
+}

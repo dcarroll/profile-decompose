@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Account.Location_type__c",
+    "readable": true
+}

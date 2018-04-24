@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Department__c.Department_Code__c",
+    "readable": true
+}

@@ -1,0 +1,9 @@
+{
+    "allowCreate": true,
+    "allowDelete": true,
+    "allowEdit": true,
+    "allowRead": true,
+    "modifyAllRecords": true,
+    "object": "Quick_Price_Config_Item_Region__c",
+    "viewAllRecords": true
+}

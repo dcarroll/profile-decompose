@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Sales_Team_Role__c",
+    "readable": true
+}

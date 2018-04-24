@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message__c.PO_Number_Count__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Auto_Delivery_Documents_Generated__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.EDI2_Bill_To_Zip__c",
+    "readable": true
+}

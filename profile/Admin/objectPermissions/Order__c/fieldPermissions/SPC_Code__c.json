@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.SPC_Code__c",
+    "readable": true
+}

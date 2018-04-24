@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Manual_Post__c",
+    "readable": true
+}

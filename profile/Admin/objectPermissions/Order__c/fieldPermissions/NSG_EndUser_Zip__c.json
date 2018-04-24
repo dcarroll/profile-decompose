@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.NSG_EndUser_Zip__c",
+    "readable": true
+}

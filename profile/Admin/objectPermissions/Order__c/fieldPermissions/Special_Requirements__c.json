@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Special_Requirements__c",
+    "readable": true
+}

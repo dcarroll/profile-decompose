@@ -1,0 +1,4 @@
+{
+    "apexClass": "SendGridEventProcessor",
+    "enabled": true
+}

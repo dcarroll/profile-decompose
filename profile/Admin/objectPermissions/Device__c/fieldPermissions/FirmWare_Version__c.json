@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.FirmWare_Version__c",
+    "readable": true
+}

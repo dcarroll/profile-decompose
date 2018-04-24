@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "BigMachines__Quote__c.BigMachines__Standard",
+    "visible": true
+}

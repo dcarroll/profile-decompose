@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.SalesTeam_of_Order_for_Commissions__c",
+    "readable": true
+}

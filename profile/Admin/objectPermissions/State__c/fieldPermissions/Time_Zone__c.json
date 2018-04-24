@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "State__c.Time_Zone__c",
+    "readable": true
+}

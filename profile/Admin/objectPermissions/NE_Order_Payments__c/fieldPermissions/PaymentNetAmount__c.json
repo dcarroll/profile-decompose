@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "NE_Order_Payments__c.PaymentNetAmount__c",
+    "readable": true
+}

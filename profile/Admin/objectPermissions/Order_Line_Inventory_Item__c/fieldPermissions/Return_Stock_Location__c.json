@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Inventory_Item__c.Return_Stock_Location__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.NSG_EndUser_Address_Line1__c",
+    "readable": true
+}

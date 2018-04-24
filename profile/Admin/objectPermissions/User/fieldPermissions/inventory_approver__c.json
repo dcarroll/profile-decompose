@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "User.inventory_approver__c",
+    "readable": true
+}

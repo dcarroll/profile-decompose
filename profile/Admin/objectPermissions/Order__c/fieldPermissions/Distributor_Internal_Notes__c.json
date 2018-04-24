@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Distributor_Internal_Notes__c",
+    "readable": true
+}

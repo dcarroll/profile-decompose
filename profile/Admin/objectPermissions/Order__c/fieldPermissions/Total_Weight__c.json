@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Total_Weight__c",
+    "readable": true
+}

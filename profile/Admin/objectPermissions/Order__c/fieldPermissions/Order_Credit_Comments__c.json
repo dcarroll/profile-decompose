@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Order_Credit_Comments__c",
+    "readable": true
+}

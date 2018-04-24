@@ -1,0 +1,5 @@
+{
+    "application": "SendGrid",
+    "default": false,
+    "visible": true
+}

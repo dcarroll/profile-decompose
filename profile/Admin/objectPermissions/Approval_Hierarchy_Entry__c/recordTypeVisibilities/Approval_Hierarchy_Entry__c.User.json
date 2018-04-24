@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Approval_Hierarchy_Entry__c.User",
+    "visible": false
+}

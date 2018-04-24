@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "BigMachines__Quote__c.BigMachines__Transaction_Id__c",
+    "readable": true
+}

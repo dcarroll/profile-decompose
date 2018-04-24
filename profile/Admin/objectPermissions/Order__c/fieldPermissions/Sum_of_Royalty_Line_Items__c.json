@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Sum_of_Royalty_Line_Items__c",
+    "readable": true
+}

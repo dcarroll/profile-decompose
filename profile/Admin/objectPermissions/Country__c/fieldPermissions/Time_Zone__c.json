@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Time_Zone__c",
+    "readable": true
+}

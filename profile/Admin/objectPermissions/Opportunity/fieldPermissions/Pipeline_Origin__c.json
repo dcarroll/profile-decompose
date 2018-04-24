@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Opportunity.Pipeline_Origin__c",
+    "readable": true
+}

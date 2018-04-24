@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Deal_Registration_Partner__c",
+    "readable": true
+}

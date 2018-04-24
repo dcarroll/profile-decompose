@@ -1,0 +1,9 @@
+{
+    "allowCreate": true,
+    "allowDelete": true,
+    "allowEdit": true,
+    "allowRead": true,
+    "modifyAllRecords": true,
+    "object": "Compliance_Check_Activity__c",
+    "viewAllRecords": true
+}

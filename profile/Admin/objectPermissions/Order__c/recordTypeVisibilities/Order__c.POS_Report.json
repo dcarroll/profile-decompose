@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Order__c.POS_Report",
+    "visible": true
+}

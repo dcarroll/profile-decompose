@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "NE_Voucher__c.Training_Day_Voucher",
+    "visible": true
+}

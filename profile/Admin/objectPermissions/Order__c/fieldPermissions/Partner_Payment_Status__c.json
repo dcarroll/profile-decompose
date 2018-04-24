@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Partner_Payment_Status__c",
+    "readable": true
+}

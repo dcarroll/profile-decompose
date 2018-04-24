@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Reporting_Currency_Office__c",
+    "readable": true
+}

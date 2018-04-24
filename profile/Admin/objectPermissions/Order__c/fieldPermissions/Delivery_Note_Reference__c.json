@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Delivery_Note_Reference__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.External_Tax_Calculation_Enabled__c",
+    "readable": true
+}

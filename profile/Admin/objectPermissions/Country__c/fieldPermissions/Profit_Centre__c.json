@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Profit_Centre__c",
+    "readable": true
+}

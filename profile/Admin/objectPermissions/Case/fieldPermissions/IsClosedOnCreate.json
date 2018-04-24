@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Case.IsClosedOnCreate",
+    "readable": true
+}

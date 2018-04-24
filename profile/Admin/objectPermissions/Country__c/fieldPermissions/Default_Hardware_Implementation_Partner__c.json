@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Default_Hardware_Implementation_Partner__c",
+    "readable": true
+}

@@ -1,0 +1,4 @@
+{
+    "layout": "Order_Line_Item__c-Admin- POS Report Order Line Layout",
+    "recordType": "Order_Line_Item__c.POS_Report_c"
+}

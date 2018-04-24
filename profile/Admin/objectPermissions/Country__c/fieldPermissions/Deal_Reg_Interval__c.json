@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Deal_Reg_Interval__c",
+    "readable": true
+}

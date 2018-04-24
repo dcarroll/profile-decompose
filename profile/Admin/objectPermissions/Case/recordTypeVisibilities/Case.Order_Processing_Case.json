@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "Case.Order_Processing_Case",
+    "visible": true
+}

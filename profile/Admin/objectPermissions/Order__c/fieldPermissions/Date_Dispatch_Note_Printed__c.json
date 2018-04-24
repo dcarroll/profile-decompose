@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Date_Dispatch_Note_Printed__c",
+    "readable": true
+}

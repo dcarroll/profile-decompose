@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "Feedback__c.QCRM",
+    "visible": true
+}

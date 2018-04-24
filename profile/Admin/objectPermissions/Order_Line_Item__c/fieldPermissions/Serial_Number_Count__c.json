@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Item__c.Serial_Number_Count__c",
+    "readable": true
+}

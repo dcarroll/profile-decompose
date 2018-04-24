@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Debtor_Account_Email_Invoice_Address__c",
+    "readable": true
+}

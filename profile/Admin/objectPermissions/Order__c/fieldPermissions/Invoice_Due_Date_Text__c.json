@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Invoice_Due_Date_Text__c",
+    "readable": true
+}

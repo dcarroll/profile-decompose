@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.EDI2_Ship_To_Email__c",
+    "readable": true
+}

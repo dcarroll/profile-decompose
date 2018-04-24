@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "roi__Reference_Request__c.roi__Status__c",
+    "readable": true
+}

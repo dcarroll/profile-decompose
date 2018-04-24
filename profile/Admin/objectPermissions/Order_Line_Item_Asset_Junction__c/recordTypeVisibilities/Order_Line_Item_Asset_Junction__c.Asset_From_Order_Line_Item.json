@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Order_Line_Item_Asset_Junction__c.Asset_From_Order_Line_Item",
+    "visible": true
+}

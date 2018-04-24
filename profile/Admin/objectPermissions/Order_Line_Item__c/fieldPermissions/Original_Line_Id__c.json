@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Item__c.Original_Line_Id__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Debtor_Terms_Length__c",
+    "readable": true
+}

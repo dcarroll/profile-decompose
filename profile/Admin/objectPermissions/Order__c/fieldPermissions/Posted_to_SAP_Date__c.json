@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Posted_to_SAP_Date__c",
+    "readable": true
+}

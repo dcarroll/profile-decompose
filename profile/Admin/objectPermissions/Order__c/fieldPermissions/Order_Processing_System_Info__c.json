@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Order_Processing_System_Info__c",
+    "readable": true
+}

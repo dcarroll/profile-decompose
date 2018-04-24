@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.twoTier_Calculation_Enabled__c",
+    "readable": true
+}

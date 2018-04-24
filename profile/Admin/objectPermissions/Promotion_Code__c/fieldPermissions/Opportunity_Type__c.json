@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Promotion_Code__c.Opportunity_Type__c",
+    "readable": true
+}

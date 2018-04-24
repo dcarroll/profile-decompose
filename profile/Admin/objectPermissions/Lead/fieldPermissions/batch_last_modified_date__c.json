@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Lead.batch_last_modified_date__c",
+    "readable": true
+}

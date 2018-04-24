@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message__c.End_User_Billing_Country__c",
+    "readable": true
+}

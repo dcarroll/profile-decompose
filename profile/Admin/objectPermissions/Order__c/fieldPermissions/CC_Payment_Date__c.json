@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.CC_Payment_Date__c",
+    "readable": true
+}

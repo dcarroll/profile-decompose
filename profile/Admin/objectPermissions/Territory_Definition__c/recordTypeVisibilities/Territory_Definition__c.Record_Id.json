@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Territory_Definition__c.Record_Id",
+    "visible": true
+}

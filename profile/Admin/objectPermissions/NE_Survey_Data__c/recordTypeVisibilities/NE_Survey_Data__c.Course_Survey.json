@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "NE_Survey_Data__c.Course_Survey",
+    "visible": true
+}

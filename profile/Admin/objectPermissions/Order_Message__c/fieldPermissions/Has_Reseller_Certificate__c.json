@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Message__c.Has_Reseller_Certificate__c",
+    "readable": true
+}

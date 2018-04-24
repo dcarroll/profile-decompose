@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Order__c.Credit_Note",
+    "visible": true
+}

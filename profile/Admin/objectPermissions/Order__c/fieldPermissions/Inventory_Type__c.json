@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Inventory_Type__c",
+    "readable": true
+}

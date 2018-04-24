@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Cheque_Number__c",
+    "readable": true
+}

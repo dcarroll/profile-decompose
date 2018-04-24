@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Lead.Portal_Created",
+    "visible": true
+}

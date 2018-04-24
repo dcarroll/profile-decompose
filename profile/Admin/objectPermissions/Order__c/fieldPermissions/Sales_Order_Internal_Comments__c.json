@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Sales_Order_Internal_Comments__c",
+    "readable": true
+}

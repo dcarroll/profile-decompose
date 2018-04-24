@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "PendingOrder__c.Total__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Delivery__c.Delivered_Timestamp_Context__c",
+    "readable": true
+}

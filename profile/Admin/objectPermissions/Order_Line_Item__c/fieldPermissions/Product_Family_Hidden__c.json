@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Item__c.Product_Family_Hidden__c",
+    "readable": true
+}

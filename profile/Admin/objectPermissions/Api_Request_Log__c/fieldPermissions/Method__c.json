@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Api_Request_Log__c.Method__c",
+    "readable": true
+}

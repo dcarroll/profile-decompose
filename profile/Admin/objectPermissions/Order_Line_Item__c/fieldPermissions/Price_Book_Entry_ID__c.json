@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Item__c.Price_Book_Entry_ID__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order_Line_Item__c.Record_Type_Name_of_Related_Order__c",
+    "readable": true
+}

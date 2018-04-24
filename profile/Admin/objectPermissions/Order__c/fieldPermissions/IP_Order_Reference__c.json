@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.IP_Order_Reference__c",
+    "readable": true
+}

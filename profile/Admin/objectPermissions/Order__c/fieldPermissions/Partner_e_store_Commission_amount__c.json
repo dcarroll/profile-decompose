@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Partner_e_store_Commission_amount__c",
+    "readable": true
+}

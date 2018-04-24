@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.High_Availability_Group_Id__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Postcode_Rule_Type__c.Strip_spaces_before_validation__c",
+    "readable": true
+}

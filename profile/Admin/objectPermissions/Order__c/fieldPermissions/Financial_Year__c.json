@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Financial_Year__c",
+    "readable": true
+}

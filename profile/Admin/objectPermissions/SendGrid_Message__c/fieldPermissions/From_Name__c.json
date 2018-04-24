@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "SendGrid_Message__c.From_Name__c",
+    "readable": true
+}

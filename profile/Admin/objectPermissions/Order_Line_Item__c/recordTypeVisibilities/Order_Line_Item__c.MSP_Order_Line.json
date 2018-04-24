@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Order_Line_Item__c.MSP_Order_Line",
+    "visible": true
+}

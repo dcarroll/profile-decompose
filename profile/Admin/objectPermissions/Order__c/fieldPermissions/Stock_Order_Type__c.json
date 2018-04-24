@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Stock_Order_Type__c",
+    "readable": true
+}

@@ -1,0 +1,9 @@
+{
+    "allowCreate": true,
+    "allowDelete": true,
+    "allowEdit": true,
+    "allowRead": true,
+    "modifyAllRecords": true,
+    "object": "Quick_Price_Conf_Item_Product_Junction__c",
+    "viewAllRecords": true
+}

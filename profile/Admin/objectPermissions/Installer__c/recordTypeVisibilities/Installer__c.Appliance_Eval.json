@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Installer__c.Appliance_Eval",
+    "visible": true
+}

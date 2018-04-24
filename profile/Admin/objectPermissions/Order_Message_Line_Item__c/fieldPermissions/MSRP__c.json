@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Message_Line_Item__c.MSRP__c",
+    "readable": true
+}

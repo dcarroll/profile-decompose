@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Item_Asset_Junction__c.Last_Invoice_Value_Percent__c",
+    "readable": true
+}

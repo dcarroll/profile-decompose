@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Inventory_Item__c.Bill_of_Entry_Date__c",
+    "readable": true
+}

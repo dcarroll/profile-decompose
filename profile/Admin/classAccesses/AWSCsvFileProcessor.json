@@ -1,0 +1,4 @@
+{
+    "apexClass": "AWSCsvFileProcessor",
+    "enabled": true
+}

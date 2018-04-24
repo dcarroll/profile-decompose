@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Inventory_Request_Acknowledgement_Date__c",
+    "readable": true
+}

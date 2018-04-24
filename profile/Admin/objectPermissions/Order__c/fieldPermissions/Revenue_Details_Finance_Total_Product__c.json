@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Revenue_Details_Finance_Total_Product__c",
+    "readable": true
+}

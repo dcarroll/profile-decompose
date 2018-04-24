@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Invoice_Credit_Due_Date_Calculated__c",
+    "readable": true
+}

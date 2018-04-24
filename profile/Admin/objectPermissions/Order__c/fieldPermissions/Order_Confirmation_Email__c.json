@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Order_Confirmation_Email__c",
+    "readable": true
+}

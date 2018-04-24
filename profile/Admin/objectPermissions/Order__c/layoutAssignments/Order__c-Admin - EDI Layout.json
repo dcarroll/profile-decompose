@@ -1,0 +1,4 @@
+{
+    "layout": "Order__c-Admin - EDI Layout",
+    "recordType": "Order__c.EDI"
+}

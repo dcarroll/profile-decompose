@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "Order__c.Standard_Order",
+    "visible": true
+}

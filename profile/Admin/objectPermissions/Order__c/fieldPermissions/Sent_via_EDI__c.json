@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Sent_via_EDI__c",
+    "readable": true
+}

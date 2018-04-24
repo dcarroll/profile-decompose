@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "Product_Delivery_Item__c.Asset",
+    "visible": true
+}

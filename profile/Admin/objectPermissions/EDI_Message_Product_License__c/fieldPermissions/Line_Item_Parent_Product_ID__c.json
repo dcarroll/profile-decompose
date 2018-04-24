@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "EDI_Message_Product_License__c.Line_Item_Parent_Product_ID__c",
+    "readable": true
+}

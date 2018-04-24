@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "BigMachines__Quote__c.Amount_without_Distributor_Margin__c",
+    "readable": true
+}

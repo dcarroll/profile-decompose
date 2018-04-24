@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "NE_Voucher__c.Training_Credit_Voucher",
+    "visible": true
+}

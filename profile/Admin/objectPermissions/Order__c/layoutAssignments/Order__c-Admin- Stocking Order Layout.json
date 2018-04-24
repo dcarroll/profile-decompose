@@ -1,0 +1,4 @@
+{
+    "layout": "Order__c-Admin- Stocking Order Layout",
+    "recordType": "Order__c.Stock"
+}

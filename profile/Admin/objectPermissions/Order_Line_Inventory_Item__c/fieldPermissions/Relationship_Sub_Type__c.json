@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Inventory_Item__c.Relationship_Sub_Type__c",
+    "readable": true
+}

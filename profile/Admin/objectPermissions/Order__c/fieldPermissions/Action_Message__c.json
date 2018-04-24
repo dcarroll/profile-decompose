@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Action_Message__c",
+    "readable": false
+}

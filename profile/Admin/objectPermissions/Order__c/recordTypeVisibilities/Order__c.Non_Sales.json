@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Order__c.Non_Sales",
+    "visible": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Territory_Team_Member__c.IsOwner__c",
+    "readable": true
+}

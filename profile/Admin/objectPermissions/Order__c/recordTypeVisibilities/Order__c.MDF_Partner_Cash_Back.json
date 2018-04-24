@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Order__c.MDF_Partner_Cash_Back",
+    "visible": true
+}

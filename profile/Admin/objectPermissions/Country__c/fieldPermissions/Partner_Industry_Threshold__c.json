@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Partner_Industry_Threshold__c",
+    "readable": true
+}

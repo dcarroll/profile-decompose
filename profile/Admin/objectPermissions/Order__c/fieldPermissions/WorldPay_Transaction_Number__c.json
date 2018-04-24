@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.WorldPay_Transaction_Number__c",
+    "readable": true
+}

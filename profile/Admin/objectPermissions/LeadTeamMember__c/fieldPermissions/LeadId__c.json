@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "LeadTeamMember__c.LeadId__c",
+    "readable": true
+}

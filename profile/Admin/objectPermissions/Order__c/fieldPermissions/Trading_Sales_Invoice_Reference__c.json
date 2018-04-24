@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Trading_Sales_Invoice_Reference__c",
+    "readable": true
+}

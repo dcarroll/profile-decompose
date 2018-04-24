@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Shipping_Method__c",
+    "readable": true
+}

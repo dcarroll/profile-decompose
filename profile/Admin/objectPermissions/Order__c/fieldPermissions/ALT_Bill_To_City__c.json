@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.ALT_Bill_To_City__c",
+    "readable": true
+}

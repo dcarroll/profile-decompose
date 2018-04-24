@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Feedback__c.NSG_Integration",
+    "visible": true
+}

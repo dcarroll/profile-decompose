@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message__c.Split_Quote_Type__c",
+    "readable": true
+}

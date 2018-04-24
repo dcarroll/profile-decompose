@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Order_Hardware_Total__c",
+    "readable": true
+}

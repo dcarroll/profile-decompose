@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.Request_Sent_To__c",
+    "readable": true
+}

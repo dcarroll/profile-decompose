@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Additional_Invoice_Email_Address__c",
+    "readable": true
+}

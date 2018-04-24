@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Product_Delivery_Item__c.Asset_and_Evaluation",
+    "visible": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Message__c.Partner_Account__c",
+    "readable": true
+}

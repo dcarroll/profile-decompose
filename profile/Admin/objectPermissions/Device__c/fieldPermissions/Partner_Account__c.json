@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.Partner_Account__c",
+    "readable": true
+}

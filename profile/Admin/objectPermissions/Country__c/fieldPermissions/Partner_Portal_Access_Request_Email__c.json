@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Partner_Portal_Access_Request_Email__c",
+    "readable": true
+}

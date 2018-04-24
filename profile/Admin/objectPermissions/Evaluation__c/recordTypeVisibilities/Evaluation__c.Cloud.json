@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "Evaluation__c.Cloud",
+    "visible": true
+}

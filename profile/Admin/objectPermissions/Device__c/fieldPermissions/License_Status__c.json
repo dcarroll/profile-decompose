@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.License_Status__c",
+    "readable": true
+}

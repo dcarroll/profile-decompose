@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Item__c.Asset_Support_Cost__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "State__c.Tax_Code__c",
+    "readable": true
+}

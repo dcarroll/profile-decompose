@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Complete_Delivery__c",
+    "readable": true
+}

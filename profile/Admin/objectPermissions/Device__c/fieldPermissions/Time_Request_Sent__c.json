@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.Time_Request_Sent__c",
+    "readable": true
+}

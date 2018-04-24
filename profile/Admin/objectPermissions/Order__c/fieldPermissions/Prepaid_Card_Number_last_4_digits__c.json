@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Prepaid_Card_Number_last_4_digits__c",
+    "readable": true
+}

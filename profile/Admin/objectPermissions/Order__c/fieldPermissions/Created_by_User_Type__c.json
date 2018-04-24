@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Created_by_User_Type__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.EDI2_End_User_Contact__c",
+    "readable": true
+}

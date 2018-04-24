@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message__c.Is_Original_Message__c",
+    "readable": true
+}

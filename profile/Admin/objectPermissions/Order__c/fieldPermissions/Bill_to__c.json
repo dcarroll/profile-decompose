@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Bill_to__c",
+    "readable": true
+}

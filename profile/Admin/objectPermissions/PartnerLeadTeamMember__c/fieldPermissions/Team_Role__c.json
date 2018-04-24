@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "PartnerLeadTeamMember__c.Team_Role__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "NE_Course__c.CustomerAccessible",
+    "visible": false
+}

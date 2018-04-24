@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Invoice_Payment_Terms_Descrip_External__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.SCFM_Management_Requested_by__c",
+    "readable": true
+}

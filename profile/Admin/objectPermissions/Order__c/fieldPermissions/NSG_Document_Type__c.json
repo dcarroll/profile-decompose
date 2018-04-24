@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.NSG_Document_Type__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Device__c.Is_High_Availability_Active__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "User.BigMachines__Partner_Organization__c",
+    "readable": true
+}

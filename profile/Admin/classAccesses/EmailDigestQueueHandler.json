@@ -1,0 +1,4 @@
+{
+    "apexClass": "EmailDigestQueueHandler",
+    "enabled": true
+}

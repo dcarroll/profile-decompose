@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.EDI2_OppAndBS_Processing_Type__c",
+    "readable": true
+}

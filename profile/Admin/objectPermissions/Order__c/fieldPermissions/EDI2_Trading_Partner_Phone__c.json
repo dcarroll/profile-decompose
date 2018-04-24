@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.EDI2_Trading_Partner_Phone__c",
+    "readable": true
+}

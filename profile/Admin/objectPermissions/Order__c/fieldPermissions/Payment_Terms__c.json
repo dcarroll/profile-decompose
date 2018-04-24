@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Payment_Terms__c",
+    "readable": true
+}

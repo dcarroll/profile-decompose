@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order_Line_Item__c.End_User_Industry__c",
+    "readable": true
+}

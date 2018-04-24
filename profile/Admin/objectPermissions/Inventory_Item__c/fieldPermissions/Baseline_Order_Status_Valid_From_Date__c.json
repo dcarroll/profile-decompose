@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Inventory_Item__c.Baseline_Order_Status_Valid_From_Date__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order_Line_Item__c.Invoice_Contract_End_Date__c",
+    "readable": true
+}

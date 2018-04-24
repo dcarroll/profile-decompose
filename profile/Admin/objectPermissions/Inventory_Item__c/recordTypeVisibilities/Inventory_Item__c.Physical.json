@@ -1,0 +1,5 @@
+{
+    "default": true,
+    "recordType": "Inventory_Item__c.Physical",
+    "visible": true
+}

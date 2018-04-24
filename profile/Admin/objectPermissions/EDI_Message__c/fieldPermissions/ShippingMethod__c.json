@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message__c.ShippingMethod__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "BigMachines__Quote__c.BigMachines__Line_Items__c",
+    "readable": true
+}

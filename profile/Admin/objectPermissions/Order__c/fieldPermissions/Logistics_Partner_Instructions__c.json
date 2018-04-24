@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Logistics_Partner_Instructions__c",
+    "readable": true
+}

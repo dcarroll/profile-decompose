@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message__c.Is_NEW_Order__c",
+    "readable": true
+}

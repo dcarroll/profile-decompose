@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Credit_Note_Date__c",
+    "readable": true
+}

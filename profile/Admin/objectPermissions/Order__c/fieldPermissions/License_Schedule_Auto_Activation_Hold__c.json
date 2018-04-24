@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.License_Schedule_Auto_Activation_Hold__c",
+    "readable": true
+}

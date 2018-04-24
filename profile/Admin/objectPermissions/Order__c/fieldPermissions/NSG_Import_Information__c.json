@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.NSG_Import_Information__c",
+    "readable": true
+}

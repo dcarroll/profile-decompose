@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message__c.Number_of_Rejection_Messages__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Payment_Terms_formula__c",
+    "readable": true
+}

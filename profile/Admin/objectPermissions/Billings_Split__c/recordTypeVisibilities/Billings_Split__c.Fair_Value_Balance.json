@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Billings_Split__c.Fair_Value_Balance",
+    "visible": false
+}

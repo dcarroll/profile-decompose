@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Trigger_Conga_Outbound_Message__c",
+    "readable": true
+}

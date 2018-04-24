@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Packing_List__c",
+    "readable": true
+}

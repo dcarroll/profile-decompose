@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Enable_Subscription_Billing__c",
+    "readable": true
+}

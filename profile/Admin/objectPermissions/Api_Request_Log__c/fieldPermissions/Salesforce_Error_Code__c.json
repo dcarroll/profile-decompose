@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Api_Request_Log__c.Salesforce_Error_Code__c",
+    "readable": true
+}

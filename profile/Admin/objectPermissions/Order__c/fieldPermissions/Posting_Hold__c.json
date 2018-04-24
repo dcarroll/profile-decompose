@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Posting_Hold__c",
+    "readable": true
+}

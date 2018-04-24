@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Local_ISO_Code__c",
+    "readable": true
+}

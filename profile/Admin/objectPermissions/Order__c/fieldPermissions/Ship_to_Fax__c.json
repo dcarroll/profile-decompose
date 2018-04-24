@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Ship_to_Fax__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order_Line_Item__c.Order_Date__c",
+    "readable": true
+}

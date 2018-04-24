@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order_Line_Item__c.Assets_From_Order_Line_Count__c",
+    "readable": true
+}

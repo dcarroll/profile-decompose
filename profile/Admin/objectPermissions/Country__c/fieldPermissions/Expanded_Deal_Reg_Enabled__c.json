@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Country__c.Expanded_Deal_Reg_Enabled__c",
+    "readable": true
+}

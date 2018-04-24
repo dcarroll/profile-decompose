@@ -1,0 +1,5 @@
+{
+    "default": false,
+    "recordType": "Product_Delivery_Item__c.Evaluation",
+    "visible": true
+}

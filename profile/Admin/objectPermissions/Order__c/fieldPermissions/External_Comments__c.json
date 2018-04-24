@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.External_Comments__c",
+    "readable": true
+}

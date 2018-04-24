@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "BigMachines__Quote__c.BigMachines__Opportunity__c",
+    "readable": true
+}

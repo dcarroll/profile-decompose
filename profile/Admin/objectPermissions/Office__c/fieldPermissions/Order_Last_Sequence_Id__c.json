@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Office__c.Order_Last_Sequence_Id__c",
+    "readable": true
+}

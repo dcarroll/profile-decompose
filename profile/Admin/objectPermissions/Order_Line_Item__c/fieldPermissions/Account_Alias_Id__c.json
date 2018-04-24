@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order_Line_Item__c.Account_Alias_Id__c",
+    "readable": true
+}

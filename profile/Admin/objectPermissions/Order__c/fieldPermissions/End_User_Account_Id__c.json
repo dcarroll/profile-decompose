@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.End_User_Account_Id__c",
+    "readable": true
+}

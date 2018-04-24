@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.EC_Sales_Internal_Value__c",
+    "readable": true
+}

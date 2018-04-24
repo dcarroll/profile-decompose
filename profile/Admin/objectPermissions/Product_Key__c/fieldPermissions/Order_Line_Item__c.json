@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Product_Key__c.Order_Line_Item__c",
+    "readable": true
+}

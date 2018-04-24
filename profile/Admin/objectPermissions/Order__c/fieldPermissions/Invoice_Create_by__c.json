@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Invoice_Create_by__c",
+    "readable": true
+}

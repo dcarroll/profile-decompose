@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.RecordTypeName__c",
+    "readable": true
+}

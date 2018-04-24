@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Product_Delivery_Item__c.Dependency_Product__c",
+    "readable": true
+}

@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Evaluations_Verified__c",
+    "readable": true
+}

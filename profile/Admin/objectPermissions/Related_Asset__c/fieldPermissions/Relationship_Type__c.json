@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Related_Asset__c.Relationship_Type__c",
+    "readable": true
+}

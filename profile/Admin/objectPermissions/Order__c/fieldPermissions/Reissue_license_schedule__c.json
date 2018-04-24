@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Order__c.Reissue_license_schedule__c",
+    "readable": true
+}

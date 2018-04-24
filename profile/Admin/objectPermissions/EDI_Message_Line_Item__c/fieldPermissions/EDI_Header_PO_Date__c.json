@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "EDI_Message_Line_Item__c.EDI_Header_PO_Date__c",
+    "readable": true
+}

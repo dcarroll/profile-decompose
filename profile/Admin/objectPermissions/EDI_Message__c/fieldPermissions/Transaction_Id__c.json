@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "EDI_Message__c.Transaction_Id__c",
+    "readable": true
+}

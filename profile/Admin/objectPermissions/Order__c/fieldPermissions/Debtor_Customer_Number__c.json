@@ -1,0 +1,5 @@
+{
+    "editable": false,
+    "field": "Order__c.Debtor_Customer_Number__c",
+    "readable": true
+}

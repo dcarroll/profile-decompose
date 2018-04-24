@@ -1,0 +1,5 @@
+{
+    "editable": true,
+    "field": "Task.Project_Task_Type__c",
+    "readable": true
+}
